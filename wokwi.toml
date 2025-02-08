@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/pwm_01.hex'
+elf = 'build/pwm_01.elf'
